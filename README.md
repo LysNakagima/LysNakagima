@@ -1,6 +1,6 @@
 👋 Hello!!
 
-I'm Lys Nakagima, a new code student starting with a big challenge at 42SP. 
+I'm Lys Nakagima, a new code student starting with a big challenge at 42SP :alien:. 
 I hope that will be a great learning experience.
 
 You can reach me by the social medias bellow or by 📫 email: lys.nakagima@gmail.com
