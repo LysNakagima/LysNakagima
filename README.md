@@ -23,21 +23,21 @@ You can reach me by the social medias bellow or by 📫 email: lys.nakagima@gmai
 
 <!-- icons with padding -->
 
-[1.1]: https://i.imgur.com/sCVZia9.png (Linkedin)
-[2.1]: https://i.imgur.com/vsIcoV4.png (Github)
-[3.1]: https://i.imgur.com/tAq5Bcu.png (Whatsapp)
-[4.1]: https://i.imgur.com/asuRbv8.png (Discord) 
-[5.1]: https://i.imgur.com/3Vwwj4q.png (Instagram)
-[6.1]: https://i.imgur.com/eMiLAL2.png (Facebook)
+[1.1]: https://i.imgur.com/oNXLR7c.png (Linkedin)
+[2.1]: https://i.imgur.com/TyBPmZE.png (Github)
+[3.1]: https://i.imgur.com/ytA3l6V.png (Whatsapp)
+[4.1]: https://i.imgur.com/rMXEHSN.png (Discord) 
+[5.1]: https://i.imgur.com/RyJvEhO.png (Instagram)
+[6.1]: https://i.imgur.com/P8nWIqi.png (Facebook)
 
 <!-- icons without padding -->
 
-[1.2]: https://i.imgur.com/sCVZia9.png (Linkedin)
-[2.2]: https://i.imgur.com/vsIcoV4.png (Github)
-[3.2]: https://i.imgur.com/tAq5Bcu.png (Whatsapp)
-[4.2]: https://i.imgur.com/asuRbv8.png (Discord)
-[5.2]: https://i.imgur.com/3Vwwj4q.png (Instagram)
-[6.2]: https://i.imgur.com/eMiLAL2.png (Facebook)
+[1.2]: https://i.imgur.com/oNXLR7c.png (Linkedin)
+[2.2]: https://i.imgur.com/TyBPmZE.png (Github)
+[3.2]: https://i.imgur.com/ytA3l6V.png (Whatsapp)
+[4.2]: https://i.imgur.com/rMXEHSN.png (Discord)
+[5.2]: https://i.imgur.com/RyJvEhO.png (Instagram)
+[6.2]: https://i.imgur.com/P8nWIqi.png (Facebook)
 
 
 <!-- links to your social media accounts -->
